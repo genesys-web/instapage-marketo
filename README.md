@@ -6,7 +6,7 @@
 | -------------- | ------------------------ |
 | https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js | Added to initialize jQuery as Marketo needs this |
 | https://genbin.genesys.com/marketo/instapage/mkt_basecode.min.js | Customized Base Marketo script for Genesys |
-| https://genbin.genesys.com/marketo/instapage/RequestForm.js | Main form required for the request functions |
+| https://genbin.genesys.com/marketo/instapage/RequestForm.js | Main form script required for the request functions |
 | https://risk.clearbit.com/v1/risk.js | Creabit Risk Script |
 
 ## Object Variables
