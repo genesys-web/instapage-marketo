@@ -21,6 +21,7 @@
 | url | url of the thank you page | Requirements: action = "page" |
 | target | ID or Class of the Targeted DIV. ex. ".thankyou" or "#thankyou" | Requirements: action = "inline" |
 | button | ex. "Download" | define the button text on the form |
+| ar_status | default, dynamic | Defines how the autoresponder is configured |
 | clearbit | "yes", "no" | define if you want to use clearbit in the form |
 
 ## Added Variables
